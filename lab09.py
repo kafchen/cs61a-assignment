@@ -445,8 +445,6 @@ def reverse_other(t):
 
 
 
-
-
 class Link:
     """A linked list.
 
